@@ -49,12 +49,6 @@ This Flight Booking Management System is a comprehensive SQL-based database proj
 
 You can run all queries from `queries.sql` consecutively or selectively according to your analysis needs.
 
-## Project Structure
-
-text
-
-`FlightBookingManagementSystem/ │ ├── ddl.sql                 # Database schema creation script ├── sample_data.sql         # Sample data insertion script ├── queries.sql             # Comprehensive SQL query set ├── README.md               # Project overview and instructions └── BT23CSE187_Project_Screenshots.pdf  # Project screenshots and outputs`
-
 ## Contributing
 
 Contributions and improvements are welcome! Feel free to fork the repository and submit pull requests for bug fixes, additional features, or optimizations.
